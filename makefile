@@ -58,7 +58,7 @@ EXPORT_HEAD =
 EXPORT_HEAD_DIR =
 
 #编译选项
-CFLAGS = 
+CFLAGS = -g
 
 #在$(CC)中使用的连接选项
 #    当前的链接过程使用的是$(CC),由$(CC)自行调用链接器进行链接
